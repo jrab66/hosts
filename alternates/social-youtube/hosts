@@ -3453,6 +3453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.stats.wordpress.com
 # youtube blocking
 0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
+0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
 0.0.0.0	host.youtube.com
